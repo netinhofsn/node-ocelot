@@ -1,0 +1,33 @@
+{
+  "name": "node-ocelot",
+  "version": "0.1.0",
+  "description": "Unopinionated REST framework for expressjs and mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunohcastro/node-ocelot.git"
+  },
+  "keywords": [
+    "REST",
+    "express",
+    "mongoose",
+    "scaffolding"
+  ],
+  "author": "Bruno Castro <brunohcastro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunohcastro/node-ocelot/issues"
+  },
+  "homepage": "https://github.com/brunohcastro/node-ocelot#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.9",
+    "pluralize": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.3.1"
+  }
+}
